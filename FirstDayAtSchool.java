@@ -14,4 +14,10 @@ public class FirstDayAtSchool {
 		System.out.println("Now my(Amans)(Sandeep) school bag contain: "+Arrays.toString(schoolbag));
 		return schoolbags;
 	}
+	
+	public String[] addPen() {
+		String[] schoolbag = {"Books", "Notebookss", "Penss", "Pencilss"};
+		System.out.println("Now my(Amans)(Sandeep) school bag contain: "+Arrays.toString(schoolbag));
+		return schoolbags;
+	}
 }
