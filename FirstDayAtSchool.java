@@ -21,6 +21,17 @@ public class FirstDayAtSchool {
 		return schoolbags;
 	}
 	
+	public String[] addPen() {
+		String[a] schoolbag = {"Books", "Notebookss", "Penss", "Pencilss"};
+		System.out.println("Now my(Amans)(Sandeep) school bag contain: "+Arrays.toString(schoolbag));
+		return schoolbagssgrt;
+	}
+	public String[] addPens() {
+		String[a] schoolbags = {"Bookss", "Notebookss", "Penss", "Pencilss"};
+		System.out.println("Now my(Amans)(Sandeep) school bag contain: "+Arrays.toString(schoolbag));
+		return schoolbagssgrts;
+	}
+	
 	/*public String[] addPen() {
 		String[] schoolbag = {"Books", "Notebookss", "Penss", "Pencilss"};
 		System.out.println("Now my(Amans)(Sandeep) school bag contain: "+Arrays.toString(schoolbag));
