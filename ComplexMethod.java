@@ -10,9 +10,9 @@ public class ComplexMethod {
         if (i == 3) {
             return "Three";
         }
-        if (i == 4) {
+       /* if (i == 4) {
             return "Fours";
-        }
+        }*/
         if (i == 5) {
             return "Fives";
         }
