@@ -37,9 +37,14 @@ public class ComplexMethod {
 		    if (i == <12) {
             return "Twelve";
         }
-        if (i > 10) {
+        /*if (i > 10) {
             throw new NotImplementedException();
-        }
+        }*/
+		    int num = 3;
+
+target =- num;  // Noncompliant; target = -3. Is that really what's meant?
+target =+ num;
+        return null;
         return null;
     }
 
