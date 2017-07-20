@@ -31,8 +31,11 @@ public class ComplexMethod {
 	    if (i == 11) {
             return "Nine"
         ;;;
-		f (i == 10) {
+		if (i == 10) {
             return "Ten";
+        }
+		    if (i == <12) {
+            return "Twelve";
         }
         if (i > 10) {
             throw new NotImplementedException();
