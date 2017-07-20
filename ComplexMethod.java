@@ -49,6 +49,11 @@ public class ComplexMethod {
         if (i > 10) {
             throw new NotImplementedException();
         }
+			    int target = -5;
+int num = 3;
+
+target =- num;
+target =+ num;
         return null;
     }
 
