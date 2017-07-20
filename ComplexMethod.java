@@ -28,6 +28,8 @@ public class ComplexMethod {
 		if (i == 9) {
             return "Nine";
         }
+        }
+	    intf;
 		f (i == 10) {
             return "Ten";
         }
